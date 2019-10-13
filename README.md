@@ -1,7 +1,11 @@
-[video](https://www.youtube.com/watch?v=Af_j6-uQNtM)
+# touhou in netlogo sort of
+### old project from 2013 intro to cs class
 
+![image](afterfinal.png)
 
-authors
+### [video](https://www.youtube.com/watch?v=Af_j6-uQNtM)
+
+### authors
 ---
-[alex hu](https://github.com/enigmamemory)
-[lawrence lim](https://github.com/mblaurens)
++ [alex hu](https://github.com/enigmamemory)
++ [lawrence lim](https://github.com/mblaurens)
