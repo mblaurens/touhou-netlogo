@@ -1,4 +1,7 @@
+[video](https://www.youtube.com/watch?v=Af_j6-uQNtM)
+
+
 authors
 ---
-https://github.com/enigmamemory
-https://github.com/mblaurens
+[alex hu](https://github.com/enigmamemory)
+[lawrence lim](https://github.com/mblaurens)
